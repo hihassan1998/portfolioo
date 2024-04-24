@@ -62,9 +62,9 @@ const Contact = () => {
             <div 
             data-aos="zoom-in"
             >
-              <h1 className="text-5xl text-white font-bold sm:text-3xl">You Need</h1>
+              <h1 className="text-5xl text-white font-bold sm:text-3xl">Behöver Du?</h1>
               <h3 className="text-xl text-indigo-300  sm:text-lg">
-                A web or mobile app leave a request here, it's FREE
+                Webb eller mobil applikation lämna begäran, det är GRATIS. Begäran förstås 😉
               </h3>
             </div>
           </div>

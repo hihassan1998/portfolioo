@@ -3,26 +3,42 @@
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/wjJDdm8L/Screen-Shot-2024-01-25-at-9-52-06-AM.png',
+    img: 'src/assets/techweb.png',
     title: "techNotes App",
-    desc: "",
+    desc: "MERN-Stack applikation som ersätter Post-its på ett småföretagares techbutik",
     link: "https://technotes-99q4.onrender.com/",
-    git: "",
+    git: "https://github.com/hihassan1998",
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/XqbJMQFy/Screen-Shot-2024-01-25-at-9-58-42-AM.png',
-    title: "Kalkylator App",
-    link: "https://hihassan1998.github.io/calculator/",
+    img: 'src/assets/shoppingcart.png',
+    title: "ShoppingCart BE",
+    link: "https://github.com/hihassan1998/kduia-shopping-app/",
     git: "",
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/D0mNwgnx/Screen-Shot-2024-01-25-at-9-44-48-AM.png',
+    img: 'src/assets/webportfolio.png',
+    title: "Tecknad Portfölj Websida",
+    desc: "",
+    link: "https://hihassan1998.github.io/portfoliooo/",
+    git: "",
+  },
+  {
+    id: 4,
+    img: 'src/assets/techweb.png',
+    title: "Summize",
+    desc: "An OpenAi GPT 4 api using website",
+    link: "https://hihassan1998.github.io/portfoliooo/",
+    git: "",
+  },
+  {
+    id: 5,
+    img: 'src/assets/webportfolio.png',
     title: "Tecknad Portfölj Websida",
     desc: "",
     link: "https://hihassan1998.github.io/portfoliooo/",
     git: "",
   }
-  
+
 ];
