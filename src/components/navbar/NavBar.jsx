@@ -106,8 +106,8 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
                 <a
                   onClick={() => toggleNav(item.name)}
                   href={`#${item.name}`}
-                  className={`uppercase cursor-pointer text-black hover:text-indigo-700 font-bold ${
-                    item.name === activeIndex ? "text-indigo-700" : ""
+                  className={`uppercase cursor-pointer text-black hover:text-green-900 font-bold ${
+                    item.name === activeIndex ? "text-green-700" : ""
                   }`}
                 >
                   {item.name}
@@ -116,7 +116,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
             ))}
             <a
               href=""
-              className="bg-black text-[1rem] text-white px-8 py-2 rounded-lg font-bold hover:text-indigo-700 md:m-5 md:block md:mx-auto md:w-fit lg:px-3"
+              className="bg-black text-[1rem] text-white px-8 py-2 rounded-lg font-bold hover:text-green-400 md:m-5 md:block md:mx-auto md:w-fit lg:px-3"
             >
               Anställ Mig
             </a>

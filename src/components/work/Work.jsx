@@ -8,7 +8,7 @@ const Work = () => {
       <div
         data-aos="fade-up"
         className="relative mb-5">
-        <h3 className="text-3xl font-black text-indigo-500 sm:text-2xl">Works</h3>
+        <h3 className="text-3xl font-black text-green-500 sm:text-2xl">Works</h3>
         <span className="h-[1.1px] right-0 absolute w-[92%] bg-gray-300 block"></span>
       </div>
       <div
