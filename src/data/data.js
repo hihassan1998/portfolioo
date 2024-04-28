@@ -26,7 +26,7 @@ export const data = [
   },
   {
     id: 4,
-    img: 'src/assets/techweb.png',
+    img: 'src/assets/sumz.png',
     title: "AI Summarization App",
     desc: "An OpenAi GPT 4 api using website",
     link: "https://ai-summarizer-5v1r.onrender.com/",
@@ -43,7 +43,7 @@ export const data = [
   {
     id: 6,
     img: 'src/assets/contact_us.png',
-    title: "Tecknad Portfölj Websida",
+    title: "Django Cardealer App",
     desc: "",
     link: "https://github.com/hihassan1998/xrwvm-fullstack_developer_capstone",
     git: "",
