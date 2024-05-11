@@ -1,10 +1,7 @@
 import React from "react";
 import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
-
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
-
-
 import {
   SiJavascript,
   SiTailwindcss,
@@ -21,8 +18,8 @@ import {
   SiPython,
   SiCsharp,
   SiDocker,
+  SiDjango
 } from "react-icons/si";
-import { GrCode } from "react-icons/gr";
 import { SiNextdotjs } from "react-icons/si";
 import { FaFlask, FaReact } from "react-icons/fa";
 import { IoLogoNodejs } from "react-icons/io";
@@ -67,9 +64,9 @@ const Skills = ({ darkMode }) => {
                   value={60}
                 />
                  <ProgressBar
-                  logo={<SiIbm />}
-                  name={"Cloud Code Engine"}
-                  value={65}
+                  logo={<SiDjango />}
+                  name={"Django"}
+                  value={85}
                 />
                 <ProgressBar
                   logo={<SiPostman />}
@@ -77,9 +74,9 @@ const Skills = ({ darkMode }) => {
                   value={65}
                 />
                 <ProgressBar
-                  logo={<FaFlask />}
-                  name={"Flask"}
-                  value={65}
+                  logo={<SiIbm />}
+                  name={"Cloud Code Engine"}
+                  value={75}
                 />
               </div>
             </div>

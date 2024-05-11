@@ -59,7 +59,7 @@ export const data = [
   {
     id: 8,
     img: '/pnrVerify.png',
-    title: "NLP Emotion Detector",
+    title: "Social Security Verification (Pnr Verify)",
     desc: "",
     link: "https://github.com/hihassan1998/Csharp-Projects",
     git: "",
