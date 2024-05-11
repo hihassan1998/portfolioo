@@ -3,7 +3,7 @@
 export const data = [
   {
     id: 1,
-    img: 'src/assets/techweb.png',
+    img: '/techweb.png',
     title: "techNotes App",
     desc: "MERN-Stack applikation som ersätter Post-its på ett småföretagares techbutik",
     link: "https://technotes-99q4.onrender.com/",
@@ -11,14 +11,14 @@ export const data = [
   },
   {
     id: 2,
-    img: 'src/assets/shoppingcart.png',
+    img: '/shoppingcart.png',
     title: "ShoppingCart BE",
     link: "https://github.com/hihassan1998/kduia-shopping-app/",
     git: "",
   },
   {
     id: 3,
-    img: 'src/assets/webportfolio.png',
+    img: '/webportfolio.png',
     title: "Tecknad Portfölj Websida",
     desc: "",
     link: "https://hihassan1998.github.io/portfoliooo/",
@@ -26,7 +26,7 @@ export const data = [
   },
   {
     id: 4,
-    img: 'src/assets/sumz.png',
+    img: '/sumz.png',
     title: "AI Summarization App",
     desc: "An OpenAi GPT 4 api using website",
     link: "https://ai-summarizer-5v1r.onrender.com/",
