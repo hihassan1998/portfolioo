@@ -34,18 +34,34 @@ export const data = [
   },
   {
     id: 5,
-    img: 'src/assets/webportfolio.png',
-    title: "Tecknad Portfölj Websida",
+    img: '/resume.png',
+    title: "Resumé",
     desc: "",
-    link: "https://hihassan1998.github.io/portfoliooo/",
+    link: "https://hihassan1998.github.io/portfolio/",
     git: "",
   },
   {
     id: 6,
-    img: 'src/assets/contact_us.png',
+    img: '/cardeal.png',
     title: "Django Cardealer App",
     desc: "",
     link: "https://github.com/hihassan1998/xrwvm-fullstack_developer_capstone",
+    git: "",
+  },
+  {
+    id: 7,
+    img: '/watsonai_csharp.png',
+    title: "NLP Emotion Detector",
+    desc: "AI-based Web Application",
+    link: "https://github.com/hihassan1998/watson_ai",
+    git: "",
+  },
+  {
+    id: 8,
+    img: '/pnrVerify.png',
+    title: "NLP Emotion Detector",
+    desc: "",
+    link: "https://github.com/hihassan1998/Csharp-Projects",
     git: "",
   }
   
