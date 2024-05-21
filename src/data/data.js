@@ -63,6 +63,14 @@ export const data = [
     desc: "",
     link: "https://github.com/hihassan1998/Csharp-Projects",
     git: "",
+  },
+  {
+    id: 9,
+    img: '/bilhubC.png',
+    title: "BilHub (Bilåterförsäljare)",
+    desc: "",
+    link: "https://github.com/hihassan1998/car_showcase",
+    git: "",
   }
   
 ];
