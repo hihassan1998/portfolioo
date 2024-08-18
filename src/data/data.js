@@ -71,6 +71,14 @@ export const data = [
     desc: "Next-Typescript-React",
     link: "https://bilhub.onrender.com/",
     git: "",
+  },
+  {
+    id: 10,
+    img: '/WelcomePage.png',
+    title: "J.Hunt (Jobbsöknings app)",
+    desc: "Expo-Next-Typescript-React",
+    link: "https://github.com/hihassan1998/react_native_jobs",
+    git: "",
   }
   
 ];
