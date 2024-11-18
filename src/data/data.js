@@ -80,5 +80,14 @@ export const data = [
     link: "https://github.com/hihassan1998/react_native_jobs",
     git: "",
   }
-  
+  ,
+  {
+    id: 11,
+    img: '/bmo_home.png',
+    title: "BMO (Online Museum)",
+    desc: "PHP, PHP PDO, SQLITE,Responsive design",
+    link: "https://online-bmo.onrender.com/",
+    git: "",
+  }
+
 ];

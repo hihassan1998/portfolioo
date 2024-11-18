@@ -74,6 +74,18 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-green-500 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] text-green-400 font-semibold sm:text-xl">
+                  Webbprogrammering
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-300 sm:text-base">
+                  BTH, Blekinge Tekinska Högskola
+                </span>
+                <span className=" text-[.9rem] font-semibold text-green-400 sm:text-base">
+                  År 2024 - Pågående
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-300">
+                  HTML, Python, CSS, JavaScript, PHP, SQL, Python som OOL, Programmeringsgrunder, Programvaruingenjörskonst, Projektarbete, Öppna Källkodverktyg, Molntjänster, WCAG (Web Content Accessibility Guidelines), ISO 9241-210, Avancerade Webbapplikationer.
+                </p>
+                <h1 className="text-[1.4rem] text-green-400 font-semibold sm:text-xl">
                   Full Stack Software Developer Professional
                   Certifiering
                 </h1>
@@ -101,7 +113,7 @@ const Resume = () => {
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
           >
             <legend className=" w-auto ml-[50%] translate-x-[-50%] border-2 border-gray-200 rounded-3xl py-1 px-8 font-semibold text-xl text-green-400">
-              Kurser
+              Kurser + Certifieringar
             </legend>
             <div className=" relative">
               {/* design */}
@@ -125,23 +137,23 @@ const Resume = () => {
                   - Introduktion till programmering och C# <br />
                   - Itroduktion till teknologi<br />
                   - Introduktion till molntjänster <br />
-                  - 
+                  -
                   Introduktion till webbutveckling med HTML, CSS och JavaScript <br />
-                  - 
+                  -
                   Kom igång med Git och Github <br />
-                  - 
+                  -
                   Utveckling av frontend-applikationer med React <br />
-                  - 
+                  -
                   Utveckling av backend-applikationer med Node.js och Express <br />
-                  - 
+                  -
                   Python till datavetenskap, AI och utveckling<br />
-                  - 
+                  -
                   Utveckla AI-applikationer med Python och Flask<br />
-                  - 
+                  -
                   Django applikationsutveckling med SQL och databaser <br />
 
-                  - Introduktion till containrar med Docker, Kubernetes och OpenShift <br /> 
-                  - 
+                  - Introduktion till containrar med Docker, Kubernetes och OpenShift <br />
+                  -
                   Applikationsutveckling med hjälp av Microservices och Serverless
                 </p>
               </div>
