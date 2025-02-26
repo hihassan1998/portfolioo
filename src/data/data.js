@@ -11,13 +11,21 @@ export const data = [
   },
   {
     id: 2,
+    img: '/yahtzee.png',
+    title: "Yahtzee Game (OOP Python)",
+    desc: "OOP Python",
+    link: "https://github.com/hihassan1998/ltu_webb",
+    git: "",
+  },
+  {
+    id: 3,
     img: '/shoppingcart.png',
     title: "ShoppingCart",
     link: "https://github.com/hihassan1998/kduia-shopping-app/",
     git: "",
   },
   {
-    id: 3,
+    id: 4,
     img: '/webportfolio.png',
     title: "Tecknad Portfölj Websida",
     desc: "react-vite",
@@ -25,7 +33,7 @@ export const data = [
     git: "",
   },
   {
-    id: 4,
+    id: 5,
     img: '/sumz.png',
     title: "AI Summarization App",
     desc: "JavaScript-react",
@@ -33,7 +41,7 @@ export const data = [
     git: "",
   },
   {
-    id: 5,
+    id: 6,
     img: '/resume.png',
     title: "Resumé",
     desc: "react",
@@ -41,15 +49,15 @@ export const data = [
     git: "",
   },
   {
-    id: 6,
-    img: '/cardeal.png',
-    title: "Django Cardealer App",
-    desc: "django-react",
-    link: "https://github.com/hihassan1998/xrwvm-fullstack_developer_capstone",
+    id: 7,
+    img: '/hangMan.png',
+    title: "Hangman & Quiz Server Side JS",
+    desc: "js-hangman",
+    link: "https://hihassan1998.github.io/jsKurs/kmom06.html",
     git: "",
   },
   {
-    id: 7,
+    id: 8,
     img: '/watsonai_csharp.png',
     title: "NLP Emotion Detector",
     desc: "python",
@@ -57,7 +65,15 @@ export const data = [
     git: "",
   },
   {
-    id: 8,
+    id: 9,
+    img: '/ludvig.png',
+    title: "Ludviga&co Pico-CMS",
+    desc: "Pico CMS, PHP,Responsive design, WCAG-100",
+    link: "https://ludvigaandco.onrender.com/",
+    git: "",
+  },
+  {
+    id: 10,
     img: '/pnrVerify.png',
     title: "Social Security Verification (Pnr Verify)",
     desc: "C#",
@@ -65,7 +81,7 @@ export const data = [
     git: "",
   },
   {
-    id: 9,
+    id: 11,
     img: '/bilhubC.png',
     title: "BilHub (Bilåterförsäljare)",
     desc: "Next-Typescript-React",
@@ -73,7 +89,7 @@ export const data = [
     git: "",
   },
   {
-    id: 10,
+    id: 12,
     img: '/WelcomePage.png',
     title: "J.Hunt (Jobbsöknings app)",
     desc: "Expo-Next-Typescript-React",
@@ -82,7 +98,7 @@ export const data = [
   }
   ,
   {
-    id: 11,
+    id: 13,
     img: '/bmoHome.png',
     title: "BMO (Online Museum)",
     desc: "PHP, PHP PDO, SQLITE,Responsive design",
@@ -91,7 +107,7 @@ export const data = [
   }
   ,
   {
-    id: 12,
+    id: 14,
     img: '/sweMash.png',
     title: "SeMash (Online Resturant)",
     desc: "PHP, HTML, SQLITE,Responsive design",

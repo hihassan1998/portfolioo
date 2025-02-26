@@ -52,6 +52,20 @@ const Resume = () => {
                   gränssnitt med stark betoning på användarupplevelse.
                   Använde React Native för att bygga plattformsoberoende mobilapplikationer, vilket utökade räckvidden för webbfunktioner till mobilanvändare.
                 </p>
+                <h1 className="text-[1.4rem] text-green-300 font-semibold sm:text-xl">
+                  Junior Nätverksingenjör
+                </h1>
+                <span className="text-[.9rem] font-semibold text-gray-300 sm:text-base">
+                  Hitachi Energy
+                </span>
+                <span className="text-[.9rem] font-semibold text-green-400 sm:text-base">
+                  Dec 2022 - Feb 2023
+                </span>
+                <p className="text-[.9rem] text-justify break-words text-gray-300">
+                  Deltog i ett nätverksmigreringsprojekt och samarbetade med ett distansteam av ingenjörer för att genomföra nätverksmigration,
+                  inklusive avbildning och omavbildning av datorer/laptops, implementering av hashing och felsökning av problem efter migreringen.
+                  Bidrog till planering och dokumentation av migreringsprocessen, vilket säkerställde en smidig övergång och minskad driftstörning.
+                </p>
               </div>
             </div>
           </fieldset>
@@ -131,10 +145,13 @@ const Resume = () => {
                   LTU- Luleå Tekniska Universitet, Coursera, IBM
                 </span>
                 <span className=" text-[.9rem] font-semibold text-green-400 sm:text-base">
-                  Year 2023 - Year 2024
+                  Year 2023 - Year 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-300">
                   - Introduktion till programmering och C# <br />
+                  - Databaser, en introduktion  <br />
+                  - Webbutveckling I - Introduktion <br />
+                  - Webbutveckling II - Skriptspråk och databaser <br />
                   - Itroduktion till teknologi<br />
                   - Introduktion till molntjänster <br />
                   -
@@ -154,7 +171,9 @@ const Resume = () => {
 
                   - Introduktion till containrar med Docker, Kubernetes och OpenShift <br />
                   -
-                  Applikationsutveckling med hjälp av Microservices och Serverless
+                  Applikationsutveckling med hjälp av Microservices och Serverless <br />
+
+                  - Agile at Work: Planning with Agile User Stories <br />
                 </p>
               </div>
             </div>
