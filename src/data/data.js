@@ -83,10 +83,19 @@ export const data = [
   ,
   {
     id: 11,
-    img: '/bmo_home.png',
+    img: '/bmoHome.png',
     title: "BMO (Online Museum)",
     desc: "PHP, PHP PDO, SQLITE,Responsive design",
     link: "https://online-bmo.onrender.com/",
+    git: "",
+  }
+  ,
+  {
+    id: 12,
+    img: '/sweMash.png',
+    title: "SeMash (Online Resturant)",
+    desc: "PHP, HTML, SQLITE,Responsive design",
+    link: "https://swemash-pakspice.onrender.com/public/pages/home.php",
     git: "",
   }
 
